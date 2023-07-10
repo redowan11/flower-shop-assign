@@ -96,6 +96,10 @@ body {
     padding: 32px 32px 0px 32px;
 }
 
+.img-five {
+    width: 350px;
+}
+
 .img-four {
     width: 285px;
 }
@@ -103,7 +107,7 @@ body {
 .flower-name-container {
     display: flex;
     justify-content: center;
-    gap: 280px;
+    gap: 260px;
 }
 
 .flower-name {
@@ -132,4 +136,54 @@ body {
 }
 
 
-/*  <!-- featured style end --> */
+/*   featured style end  */
+
+/* offer style start */
+
+.offer-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 100px;
+    margin-bottom: 128px;
+}
+
+.offer-information {}
+
+.offer-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.offer-description {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 32px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.span-off {
+    color: #E55473;
+}
+
+.btn-primary {
+    margin-top: 32px;
+    border-radius: 8px;
+    border: none;
+    background: #E55473;
+    color: white;
+    padding: 20px 43px;
+    margin-left: 250px;
+    
+}
+
+.offer-img {}
+
+/* offer style end */
