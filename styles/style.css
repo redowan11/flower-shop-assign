@@ -73,7 +73,7 @@ body {
 
 .img-one {
     width: 300px;
-    height: 440px;
+    height: 428px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
     padding: 32px 32px 0px 32px;
@@ -82,7 +82,7 @@ body {
 
 .img-two {
     width: 300px;
-    height: 440px;
+    height: 428px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
     padding: 32px 32px 0px 32px;
@@ -90,10 +90,46 @@ body {
 
 .img-three {
     width: 300px;
-    height: 440px;
+    height: 428px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
     padding: 32px 32px 0px 32px;
 }
 
+.img-four {
+    width: 285px;
+}
+
+.flower-name-container {
+    display: flex;
+    justify-content: center;
+    gap: 280px;
+}
+
+.flower-name {
+
+    text-decoration: underline;
+}
+
 /* featured style end */
+
+/*  <!-- featured style start --> */
+
+.support-container {
+    width: 55%;
+    margin: auto;
+    padding: 40px;
+    margin-top: 128px;
+    margin-bottom: 128px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+}
+
+.support-icon {
+    text-align: center;
+}
+
+
+/*  <!-- featured style end --> */
