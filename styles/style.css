@@ -1,3 +1,42 @@
-.container{
-    background-image: url();
+
+body {
+    font-family: 'Lato', sans-serif;
 }
+
+/* header styles start */
+
+.header-container {
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header-information {
+    margin-left: 150px;
+}
+
+.header-title {
+    margin-bottom: 32px;
+    font-size: 80px;
+}
+
+.header-description {
+    margin-bottom: 32px;
+}
+
+.primary-btn {
+    padding: 20px 43px;
+    border-radius: 8px;
+    border: 0;
+    background: #E55473;
+    color: white;
+
+}
+
+.header-img {
+    margin-right: 150px;
+    margin-top: 50px;
+}
+
+/* header styles end */
