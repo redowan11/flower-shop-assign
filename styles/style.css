@@ -138,6 +138,36 @@ body {
 
 /*   featured style end  */
 
+/* flower delivery style start */
+
+.flower-container{
+    margin-top: 128px;
+    margin-bottom: 128px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.delivery-title{
+    font-size: 65px;
+    padding-bottom: 50px;
+}
+.flower-information{
+    text-align: center;
+}
+.delivery-description{
+    padding-bottom: 20px;
+}
+.delivery-info{
+
+}
+.flower-img{
+
+}
+.flower-color{
+    color: #E55473;
+}
+/* flower delivery style end */
+
 /* offer style start */
 
 .offer-container {
