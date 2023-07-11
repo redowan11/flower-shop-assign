@@ -223,3 +223,51 @@ body {
 }
 
 /* instagram style end */
+
+/* latest deals style start */
+
+.latest-deals{
+    background-image: url(../images/);
+}
+
+/* latest deals style end */
+
+/* footer styes start */
+.footer-container {
+    background: #111010;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+    
+}
+
+.footer-title {
+    
+    text-align: center;
+    color: white;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.footer-description {
+    padding: 20px;
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.copy-right {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+   
+}
+.shop{
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+/* footer styes end */
